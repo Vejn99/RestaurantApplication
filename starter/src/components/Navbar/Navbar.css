@@ -1,0 +1,17 @@
+.Header {
+  border-bottom: 3px solid black;
+}
+
+.Header a {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.Header a h4:hover {
+  color: tomato;
+}
+
+.Header a i {
+  color: tomato;
+}

@@ -1,0 +1,17 @@
+.cuisineBtn {
+  text-align: center;
+  color: white;
+  background-color: tomato;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 15px;
+  margin: 5px;
+}
+
+.cuisineBtn:hover {
+  background-color: rgb(195, 48, 22);
+}
+
+.cuisineBtn a {
+  color: white;
+}

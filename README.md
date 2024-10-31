@@ -26,6 +26,12 @@ npm install
 npm run start
 ```
 
+5. Run json-server for mock API:
+
+```
+npm run server
+```
+
 ## Usage
 
 Once the application is running, you can navigate through various pages to explore different features:
